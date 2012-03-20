@@ -1,0 +1,7 @@
+This SDK provides programmatic control of the MoMS API through Java. 
+Using this SDK, a client can trigger a send to a user over 
+SMS, MMS, or email, check the status of a send, manage opt-in status and more.
+
+- bin/ contains the different class files
+- docs/ contains the SDK java doc
+- src/ contains the different source files
